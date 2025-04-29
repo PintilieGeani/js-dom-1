@@ -26,13 +26,18 @@
     width: 200px;
     padding: 15px 20px;
     border-radius: 30px;
-    background-color: green;
+    background-color: red;
     color: white;
 
 }
 
-.bg-red{
-    background-color: red;
+/* Dark mode */
+.bg-black button{
+    background-color: green;
+}
+
+.bg-black p {
+    color: white;
 }
 
 .bg-black{
